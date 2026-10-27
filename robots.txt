@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://medpainel.orquestrator.ai
+Sitemap: https://medpainel.orquestrator.ai/sitemap.xml
